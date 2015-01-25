@@ -1,10 +1,10 @@
 ##Course Project on Coursera "Getting and Cleaning Data"
 
-This repo hosts the R code and documentation files for the Data Science's track course "Getting and Cleaning data" by Coursera
+My repo hosts the R code and documentation files for the Data Science's track course project "Getting and Cleaning Data" by Coursera
 
 The dataset being used is: Human Activity Recognition Using Smartphones
 
-Files
+##Files
 
  - "CodeBook.md" describes the variables, the data, and any transformations or work that was performed to clean up the data
 
