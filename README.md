@@ -10,4 +10,4 @@ Files
 
 - "run_analysis.R" contains all the code to perform the analyses described in the 5 steps
 
-- "The output of the 5th step - a second, independent tidy data set - is called tidyData.txt and is uploaded in the course project's website
+- The output of the 5th step - a second, independent tidy data set - is called "tidyData.txt" and is uploaded in the course project's website
