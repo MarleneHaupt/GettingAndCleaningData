@@ -1,4 +1,4 @@
-Course Project on Coursera "Getting and Cleaning Data"
+##Course Project on Coursera "Getting and Cleaning Data"
 
 This repo hosts the R code and documentation files for the Data Science's track course "Getting and Cleaning data" by Coursera
 
